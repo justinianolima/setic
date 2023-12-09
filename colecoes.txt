@@ -1,0 +1,13 @@
+sigla;colecão;versão;
+SETIC;Aquisição;1.0;
+SETIC;Aquisição;2.0;
+SETIC;Fábrica de Software;;
+SETIC;Gerência de Projetos;1.0;
+SETIC;Gerência de Projetos;2.0;
+SETIC;Gestão;;
+SETIC;Gestão de Vulnerabilidade;;
+SETIC;GPROC;;
+SETIC;Governança;;
+SETIC;HomeOffice;;
+SETIC;Infovia - Manutenção;;
+SETIC;Infovia - Novos Clientes;;
