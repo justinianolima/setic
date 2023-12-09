@@ -1,0 +1,6 @@
+sigla;nome;status;
+SETIC;Superintendência Estadual de Tecnologia da Informação e Comunição;ativo;
+CGE;Controladoria Geral do Estado;ativo;
+SEDAM;Secretaria de Estado de Desenvolvimento Ambiental;ativo;
+SECOM;Secretaria de Estado de Comunicação;inativo;
+SEGEP;Superintendência Estadual de Gestão de Pessoas;ativo;
