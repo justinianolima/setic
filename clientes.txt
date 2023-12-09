@@ -1,6 +1,12 @@
-sigla;nome;status;
 SETIC;Superintendência Estadual de Tecnologia da Informação e Comunição;ativo;
 CGE;Controladoria Geral do Estado;ativo;
 SEDAM;Secretaria de Estado de Desenvolvimento Ambiental;ativo;
 SECOM;Secretaria de Estado de Comunicação;inativo;
 SEGEP;Superintendência Estadual de Gestão de Pessoas;ativo;
+FHEMERON;Fundação de Hematologia e Hemoterapia;ativo;
+IDARON;Agência de Defesa Sanitária Agrosilvopastoril;ativo;
+PGE;Procuradoria Geral do Estado;ativo;
+SEAS;Secretaria de Estado da Assistência e do Desenvolvimento Social;ativo;
+SEPAT;Secretaria de Estado de Patrimônio e Regularização Fundiária;ativo;
+SESAU;Secretaria de Estado da Saúde;ativo;
+SUGESP;Superintendência Estadual de Gestão dos Gastos Públicas Administrativos;ativo;
