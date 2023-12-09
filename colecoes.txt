@@ -1,4 +1,3 @@
-sigla;colecão;versão;
 SETIC;Aquisição;1.0;
 SETIC;Aquisição;2.0;
 SETIC;Fábrica de Software;;
