@@ -10,3 +10,8 @@ SETIC;Governança;;
 SETIC;HomeOffice;;
 SETIC;Infovia - Manutenção;;
 SETIC;Infovia - Novos Clientes;;
+SEGEP;Consignação;;
+SEGEP;Gestão de Pessoas;;
+SEGEP;Crepúsculo;;
+SEGEP;Governa;;
+SEGEP;Perícias;;
